@@ -3,4 +3,5 @@
 #include <stdio.h>
 #include <unistd.h>
 int factorial(int n);
+int is_prime_number(int n);
 #endif
